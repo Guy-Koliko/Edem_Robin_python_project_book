@@ -6,6 +6,6 @@
  mad, I have tried on my own to discord those thoughts but they keep coming back to me.
 </p>
 <p> I may not be the perfect computer programmer or a perfect developer but I believe this ten little words<br>
-> If It Is To Be, IT Is Up To Me <br>
+:+1: If It Is To Be, IT Is Up To Me > I’ve always been more interested <br>
 are absolutely valid, the solution is to start it now.
 </p>
