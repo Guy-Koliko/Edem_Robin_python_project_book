@@ -28,11 +28,12 @@
 
     """
 
- ```from BigEclass import KojoStringValidate as BE
-    empty_list = []
-    name = BE(empty_list,'Name to validate','Text to display to the user','error message to display to the user','an integer, this is the allowed charater the user can enter')
-    name.ama_validate_email()
+ ```
+        from BigEclass import KojoStringValidate as BE
+        empty_list = []
+        name = BE(empty_list,'Name to validate','Text to display to the user','error message to display to the user','an integer, this is the allowed charater the user can enter')
+        name.ama_validate_email()
 
-    print(empty_list)
+        print(empty_list)
 
 ```
